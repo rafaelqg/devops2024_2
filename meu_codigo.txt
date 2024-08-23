@@ -1,1 +1,2 @@
 edição linha 1, nova edição
+Linha 2, no arquivo 1.
